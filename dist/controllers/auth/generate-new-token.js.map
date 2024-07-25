@@ -1,0 +1,1 @@
+{"version":3,"file":"generate-new-token.js","sourceRoot":"","sources":["../../../src/controllers/auth/generate-new-token.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,8DAA2D;AAC3D,2CAA8C;AAE9C;;;;GAIG;AACU,QAAA,gBAAgB,GAAG,IAAA,uBAAU,EAAC,CAAO,GAAY,EAAE,GAAa,EAAiB,EAAE;IAC9F,GAAG,CAAC,IAAI,CAAC,mBAAW,CAAC,kBAAkB,CAAC,GAAG,CAAC,WAAW,CAAC,CAAC,CAAC;AAC5D,CAAC,CAAA,CAAC,CAAC"}
