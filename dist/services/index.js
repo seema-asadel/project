@@ -23,7 +23,9 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.userService = void 0;
+exports.postService = exports.userService = void 0;
 const userService = __importStar(require("./users"));
 exports.userService = userService;
+const postService = __importStar(require("./posts"));
+exports.postService = postService;
 //# sourceMappingURL=index.js.map

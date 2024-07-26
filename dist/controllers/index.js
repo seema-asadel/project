@@ -23,9 +23,11 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.userController = exports.authController = void 0;
+exports.postController = exports.userController = exports.authController = void 0;
 const authController = __importStar(require("./auth"));
 exports.authController = authController;
 const userController = __importStar(require("./user"));
 exports.userController = userController;
+const postController = __importStar(require("./post"));
+exports.postController = postController;
 //# sourceMappingURL=index.js.map
